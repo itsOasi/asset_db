@@ -2,15 +2,15 @@
 	"innova":{
 		"title":"Innova Technologies",
 		"link":"https://itsoasi.github.io/innova",
-		"image":"",
-		"desc":"",
+		"image":"https://itsoasi.github.io/innova/public/innova-title-11@2x.png",
+		"desc":"A catalog of games apps and tools",
 		"color":""
 	},
 	"roseling":{
 		"title":"Roseling Graphic Design",
 		"link":"https://itsoasi.github.io/roseling_gd",
-		"image":"",
-		"desc":"",
+		"image":"https://itsoasi.github.io/roseling_gd/static/logo%20full%2022_12_6.png",
+		"desc":"A repository of art assets",
 		"color":""
 	}
 }
