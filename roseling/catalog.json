@@ -19,5 +19,15 @@
     "desc":"",
     "image":"https://i.pinimg.com/564x/a6/cb/89/a6cb89cff8be0f17175c2dd820b55c40.jpg",
     "featured":"true"
+  },
+  "monsieur toad":{
+    "title":"Monsieur Toad",
+    "desc":"A very dapper toad",
+    "image":"https://i.pinimg.com/originals/79/d6/ae/79d6ae5232d0f2d0bbd71ce89e81e98d.jpg"
+  },
+  "resume template 2":{
+    "title":"Resume Template",
+    "desc":"",
+    "image":"https://i.pinimg.com/564x/fa/a3/29/faa3291d3919ca2ebfd394658e022864.jpg"
   }
 }
