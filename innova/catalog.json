@@ -3,24 +3,28 @@
 		"title":"Candy Kitty",
 		"link":"https://itsoasi.github.io/candy_kitty/",
 		"image":"https://itsoasi.com/static/components/portfolio/candy_kitty/poster.png",
-		"desc":"Endless platformer where you collect candy, fight snakes, and run as far as you can to unlock new characters!"
+		"desc":"Endless platformer where you collect candy, fight snakes, and run as far as you can to unlock new characters!",
+		"tag":"Games"
 	},
 	"innova_fu":{
 		"title":"innova fi",
 		"link":"https://itsoasi.github.io/innova_fi/",
 		"image":"https://th.bing.com/th/id/OIP.0G366AcTTkglKG3ZMBc-1gHaGe?w=206&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
-		"desc":"Manage your fincances and plan ahead with our financial tools."
+		"desc":"Manage your fincances and plan ahead with our financial tools.",
+		"tag":"Productivity"
 	},
 	"roseling":{
 		"title":"Roseling Graphic Design",
 		"link":"https://roseling-gd-2jochkae6a-uc.a.run.app/",
 		"image":"https://roseling-gd-2jochkae6a-uc.a.run.app/logo_full_22_12_6.png",
-		"desc":"The amazing graphics team that designed our website. We're working together on some really cool things, so stay tuned!"
+		"desc":"The amazing graphics team that designed our website. We're working together on some really cool things, so stay tuned!",
+		"tag":"Partner Site"
 	},
 	"portfolio":{
 		"title":"itsOasi's Portfolio",
 		"link":"https://itsoasi.github.io/portfolio/",
 		"image":"https://itsoasi.com/public/unsplash-sg8nxmpwdm@2x.png",
-		"desc":"The engineer behind it all! Mysteriously working out of his LED lit bedroom, he passionately orchestrates the infrastructure for his projects, clients and colleagues. View his resume and certs here!"
+		"desc":"The engineer behind it all! Mysteriously working out of his LED lit bedroom, he passionately orchestrates the infrastructure for his projects, clients and colleagues. View his resume and certs here!",
+		"tag":"Partner Site"
 	}
 }
